@@ -1,0 +1,7 @@
+[2025-08-05 14:22:39] ALERT: High sales quantity for 'Widget B' - 15000 units sold.
+[2025-08-05 14:22:39] ALERT: High sales quantity for 'Widget D' - 20000 units sold.
+[2025-08-05 14:39:05] DB Health Check: Connection OK.
+[2025-08-05 14:39:05] Total rows in sales_data: 5
+[2025-08-05 14:39:05] ALERT: High sales quantity for 'Widget B' - 15000 units sold.
+[2025-08-05 14:39:05] ALERT: High sales quantity for 'Widget D' - 20000 units sold.
+[2025-08-05 14:39:05] Daily sales summary: Total quantity sold = 36500

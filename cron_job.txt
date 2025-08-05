@@ -1,0 +1,4 @@
+# Cron job simulation
+# Run the monitoring script every day at 9 AM
+
+0 9 * * * python /path/to/your/project/scripts/monitor_db.py
